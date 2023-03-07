@@ -1,10 +1,6 @@
 ### NextJS ###
 # Next build dir
 .next
-next/static
-next/cache/webpack
-*.pack
-*.pack.old
 
 # User-specific stuff
 .idea
