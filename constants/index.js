@@ -71,18 +71,22 @@ export const insights = [
 export const socials = [
   {
     name: 'twitter',
+    href: 'https://twitter.com/PaoloCecca96',
     url: '/twitter.svg',
   },
   {
     name: 'linkedin',
+    href: 'https://www.linkedin.com/in/paolo-c-a2866992/',
     url: '/linkedin.svg',
   },
   {
     name: 'instagram',
+    href: 'https://www.instagram.com/Paolo96Cecca',
     url: '/instagram.svg',
   },
-  {
-    name: 'facebook',
-    url: '/facebook.svg',
-  },
+  // {
+  //   name: 'facebook',
+  //   href: '',
+  //   url: '/facebook.svg',
+  // },
 ];
