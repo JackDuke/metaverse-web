@@ -6,22 +6,22 @@
  * or disable the default devtool with "devtool: false".
  * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
  */
-(self["webpackChunk_N_E"] = self["webpackChunk_N_E"] || []).push([["app/layout"],{
+(self["webpackChunk_N_E"] = self["webpackChunk_N_E"] || []).push([["app\\layout"],{
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Fpaoloceccarelli%2FCode_Personal%2FReact%2Fmetaverse-web%2Fstyles%2Fglobals.css&server=false!":
-/*!*********************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Fpaoloceccarelli%2FCode_Personal%2FReact%2Fmetaverse-web%2Fstyles%2Fglobals.css&server=false! ***!
-  \*********************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=D%3A%5CCode%5CPersonal%5CPortfolio%5Cmetaverse-web%5Cstyles%5Cglobals.css&server=false!":
+/*!*****************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=D%3A%5CCode%5CPersonal%5CPortfolio%5Cmetaverse-web%5Cstyles%5Cglobals.css&server=false! ***!
+  \*****************************************************************************************************************************************************************************************/
 /***/ (function(__unused_webpack_module, __unused_webpack_exports, __webpack_require__) {
 
-eval(__webpack_require__.ts("(() => __webpack_require__.e(/*! import() */ \"styles_globals_css\").then(__webpack_require__.bind(__webpack_require__, /*! ./styles/globals.css */ \"./styles/globals.css\")))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2J1aWxkL3dlYnBhY2svbG9hZGVycy9uZXh0LWZsaWdodC1jbGllbnQtZW50cnktbG9hZGVyLmpzP21vZHVsZXM9JTJGVXNlcnMlMkZwYW9sb2NlY2NhcmVsbGklMkZDb2RlX1BlcnNvbmFsJTJGUmVhY3QlMkZtZXRhdmVyc2Utd2ViJTJGc3R5bGVzJTJGZ2xvYmFscy5jc3Mmc2VydmVyPWZhbHNlIS5qcyIsIm1hcHBpbmdzIjoiQUFBQSxPQUFPLG1LQUErRyIsInNvdXJjZXMiOlsid2VicGFjazovL19OX0UvPzM5ZWYiXSwic291cmNlc0NvbnRlbnQiOlsiKCgpID0+IGltcG9ydCgvKiB3ZWJwYWNrTW9kZTogXCJsYXp5XCIgKi8gXCIvVXNlcnMvcGFvbG9jZWNjYXJlbGxpL0NvZGVfUGVyc29uYWwvUmVhY3QvbWV0YXZlcnNlLXdlYi9zdHlsZXMvZ2xvYmFscy5jc3NcIikpIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Fpaoloceccarelli%2FCode_Personal%2FReact%2Fmetaverse-web%2Fstyles%2Fglobals.css&server=false!\n"));
+eval(__webpack_require__.ts("(() => __webpack_require__.e(/*! import() */ \"styles_globals_css\").then(__webpack_require__.bind(__webpack_require__, /*! ./styles/globals.css */ \"./styles/globals.css\")))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2J1aWxkL3dlYnBhY2svbG9hZGVycy9uZXh0LWZsaWdodC1jbGllbnQtZW50cnktbG9hZGVyLmpzP21vZHVsZXM9RCUzQSU1Q0NvZGUlNUNQZXJzb25hbCU1Q1BvcnRmb2xpbyU1Q21ldGF2ZXJzZS13ZWIlNUNzdHlsZXMlNUNnbG9iYWxzLmNzcyZzZXJ2ZXI9ZmFsc2UhLmpzIiwibWFwcGluZ3MiOiJBQUFBLE9BQU8sbUtBQXFHIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vX05fRS8/YjllOCJdLCJzb3VyY2VzQ29udGVudCI6WyIoKCkgPT4gaW1wb3J0KC8qIHdlYnBhY2tNb2RlOiBcImxhenlcIiAqLyBcIkQ6XFxcXENvZGVcXFxcUGVyc29uYWxcXFxcUG9ydGZvbGlvXFxcXG1ldGF2ZXJzZS13ZWJcXFxcc3R5bGVzXFxcXGdsb2JhbHMuY3NzXCIpKSJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=D%3A%5CCode%5CPersonal%5CPortfolio%5Cmetaverse-web%5Cstyles%5Cglobals.css&server=false!\n"));
 
 /***/ })
 
 },
 /******/ function(__webpack_require__) { // webpackRuntimeModules
 /******/ var __webpack_exec__ = function(moduleId) { return __webpack_require__(__webpack_require__.s = moduleId); }
-/******/ __webpack_require__.O(0, ["main-app"], function() { return __webpack_exec__("./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Fpaoloceccarelli%2FCode_Personal%2FReact%2Fmetaverse-web%2Fstyles%2Fglobals.css&server=false!"); });
+/******/ __webpack_require__.O(0, ["main-app"], function() { return __webpack_exec__("./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=D%3A%5CCode%5CPersonal%5CPortfolio%5Cmetaverse-web%5Cstyles%5Cglobals.css&server=false!"); });
 /******/ var __webpack_exports__ = __webpack_require__.O();
 /******/ _N_E = __webpack_exports__;
 /******/ }
